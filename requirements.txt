@@ -1,0 +1,14 @@
+numpy
+scipy
+questionary
+networkx
+tree_sitter
+docker
+colorama
+pyfiglet
+tree_sitter_python
+tree_sitter_javascript
+tree_sitter_html
+tree_sitter_php
+magika
+google-cloud-aiplatform
